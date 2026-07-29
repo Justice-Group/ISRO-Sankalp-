@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tsankalp111-coder.github.io/ISRO-Sankalp-/sitemap.xml
